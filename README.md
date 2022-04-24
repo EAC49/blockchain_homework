@@ -1,5 +1,17 @@
 # blockchain_homework
 
+#Streamlit Review
+
+The Streamlit application allows a user to input a sender, receiver, and an amount and then records that information on a pychain ledger. It displays the pychain ledger with the pertinent information that allows someone to visually the transactions added to the ledger. It then allows a user to validate a transaction by ensuring that the hash of the previous block matches the previous block hash on the newest block. It also allows a user to adjust the difficulty of mining the next blocking.
+
+
+![Screen Shot 2022-04-23 at 8 42 14 PM](https://user-images.githubusercontent.com/90485078/164950876-6649ccde-62cc-4e10-b374-67089f67b68e.png)
+
+
+
+![Screen Shot 2022-04-23 at 8 42 33 PM](https://user-images.githubusercontent.com/90485078/164950881-5f763846-68c4-49d2-9f8b-dd18ead43c7f.png)
+
+
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
@@ -97,16 +109,6 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 You’ll upload the Python file for this assignment to your GitHub repository.
 
 * Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
-The Streamlit application allows a user to input a sender, receiver, and an amount and then records that information on a pychain ledger. It displays the pychain ledger with the pertinent information that allows someone to visually the transactions added to the ledger. It then allows a user to validate a transaction by ensuring that the hash of the previous block matches the previous block hash on the newest block.
-
-
-![Screen Shot 2022-04-23 at 8 42 14 PM](https://user-images.githubusercontent.com/90485078/164950876-6649ccde-62cc-4e10-b374-67089f67b68e.png)
-
-
-
-![Screen Shot 2022-04-23 at 8 42 33 PM](https://user-images.githubusercontent.com/90485078/164950881-5f763846-68c4-49d2-9f8b-dd18ead43c7f.png)
-
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
