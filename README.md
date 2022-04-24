@@ -1,6 +1,6 @@
 # blockchain_homework
 
-#Streamlit Review
+# Streamlit Review
 
 The Streamlit application allows a user to input a sender, receiver, and an amount and then records that information on a pychain ledger. It displays the pychain ledger with the pertinent information that allows someone to visually the transactions added to the ledger. It then allows a user to validate a transaction by ensuring that the hash of the previous block matches the previous block hash on the newest block. It also allows a user to adjust the difficulty of mining the next blocking.
 
