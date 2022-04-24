@@ -1,5 +1,3 @@
-# blockchain_homework
-
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
